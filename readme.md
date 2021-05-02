@@ -15,5 +15,5 @@
 ##4 <a href="https://exercism.io/">Codewars ↗</a>
     * <p>Este site tem uma componente mais comunitária. Aqui podes encontrar desafios submetidos pelos próprios membros da comunidade. Para os resolver usas o editor online do próprio site e podes também debater com os outros membros.</p>
 
-##5 <a href="https://exercism.io/">Codingame ↗</a>
+## <a href="https://exercism.io/">Codingame ↗</a>
     * <p>Este site tem a particularidade de poderes contribuir para desenvolver código para jogos online. Como funciona? Recebes a descrição de um problema e um editor onde podes escrever o teu código em mais de 20 linguagens de programação. É um site renomado para programadores que querem resolver problemas e ter uma participação em projeto.</p>
