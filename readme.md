@@ -12,4 +12,7 @@
 ## <a href="https://exercism.io/">Coderbyte ↗</a>
    <p>Aqui podes encontrar mais de 200 desafios e, como para o TopCoder, usas o próprio editor de código do site para participar. Os desafios listados vão de um nível baixo e acessível até níveis difíceis de resolução, todos os níveis com uma variedade de linguagens de programação.
 
+## <a href="https://www.urionlinejudge.com.br/">URI Online Judge ↗</a>
+   <p>O URI Online Judge contém mais de 1000 problemas divididos em 8 grandes categorias. Esta divisão ajuda os usuários a se concentrarem em tópicos de programação específicos. Todos os problemas estão disponíveis em português e inglês.</p>
+
 <h5>Também é uma boa forma de contribuir para a comunidade, se conseguires realizar alguns do desafios pode compartilhar com a comunidade.</h5>
