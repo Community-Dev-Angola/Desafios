@@ -2,7 +2,7 @@
 
 <p> 🚀Se gostas de desafios e de competir, boas notícias: nesta lista que te apresentamos podes não só encontrar alguns dos melhores sites para resolver desafios de programação, como podes aproveitar para aprender e desenvolveres as tuas competências e até fazer parte de uma comunidade.</p>
 
-## Lista:
+## Lista de sites:
 
 ## <a href="https://exercism.io/">Exercism ↗</a>
    <p>É um dos principais sites para competições de algoritmos. Encontras uma série de desafios para completares utilizando o editor de código do próprio site. É um dos sites mais populares e poderás defrontar-te com vários níveis de programadores, sabendo que TopCoder é procurado por programadores que gostam de participar regularmente neste tipo de competições.</p>
