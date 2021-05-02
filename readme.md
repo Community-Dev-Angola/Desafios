@@ -1,4 +1,4 @@
-<h1 align="center">Lista de plataformas para treinar progromação</h1>
+<h1 align="center">Lista de plataformas para treinar lógica de programação</h1>
 
 ## Lista:
 <p> 🚀Se gostas de desafios e de competir, boas notícias: nesta lista que te apresentamos podes não só encontrar alguns dos melhores sites para resolver desafios de programação, como podes aproveitar para aprender e desenvolveres as tuas competências e até fazer parte de uma comunidade.</p>
@@ -36,3 +36,4 @@
 Dado um problema, você tem que informar o resultado esperado, mas o código é feito fora da plataforma, em qualquer linguagem que você queira.
 </p>
 
+<h5>Também é uma boa forma de contribuir para a comunidade, se conseguires realizar alguns do desafios pode compartilhar com a comunidade.</h5>
