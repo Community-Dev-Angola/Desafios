@@ -12,4 +12,4 @@
 ## <a href="https://exercism.io/">Coderbyte ↗</a>
    <p>Aqui podes encontrar mais de 200 desafios e, como para o TopCoder, usas o próprio editor de código do site para participar. Os desafios listados vão de um nível baixo e acessível até níveis difíceis de resolução, todos os níveis com uma variedade de linguagens de programação.
 
-<5>Também é uma boa forma de contribuir para a comunidade, se conseguires realizar alguns do desafios pode compartilhar com comunidade.</h5>
+<h5>Também é uma boa forma de contribuir para a comunidade, se conseguires realizar alguns do desafios pode compartilhar com comunidade.</h5>
