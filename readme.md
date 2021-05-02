@@ -1,6 +1,6 @@
 <h1>5 plataformas para treinar progrmação</h1>
 
-##Isso mesmo 5 plataformas
+## Isso mesmo 5 plataformas
 <p> 🚀Se gostas de desafios e de competir, boas notícias: nesta lista que te apresentamos podes não só encontrar alguns dos melhores sites para resolver desafios de programação, como podes aproveitar para aprender e desenvolveres as tuas competências ou até fazeres parte de uma comunidade.</p>
 
 ##1 <a href="https://exercism.io/">Exercism ↗</a>
