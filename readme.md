@@ -37,4 +37,8 @@
 Dado um problema, você tem que informar o resultado esperado, mas o código é feito fora da plataforma, em qualquer linguagem que você queira.
 </p>
 
+## <a href="https://www.devchallenge.com.br/">DevChallenge ↗</a>
+<p>Site para desenvolvedores melhorarem suas habilidades através de desafios de front-end, back-end e mobile. Você também pode contribuir com o desenvolvimento do próprio site da DevChallenge.
+</p>
+
 <h5>Também é uma boa forma de contribuir para a comunidade, se conseguires realizar alguns do desafios pode compartilhar com a comunidade.</h5>
