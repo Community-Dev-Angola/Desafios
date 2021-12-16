@@ -13,8 +13,8 @@
 ## <a href="https://coderbyte.com/">Coderbyte ↗</a>
    <p>Aqui podes encontrar mais de 200 desafios e, como para o TopCoder, usas o próprio editor de código do site para participar. Os desafios listados vão de um nível baixo e acessível até níveis difíceis de resolução, todos os níveis com uma variedade de linguagens de programação.
 
-## <a href="https://www.urionlinejudge.com.br/">URI Online Judge ↗</a>
-   <p>O URI Online Judge contém mais de 1000 problemas divididos em 8 grandes categorias. Esta divisão ajuda os usuários a se concentrarem em tópicos de programação específicos. Todos os problemas estão disponíveis em português e inglês.</p>
+## <a href="https://www.beecrowd.com.br/">Beecrowd ↗</a>
+   <p>O Beecrowd contém mais de 1000 problemas divididos em 8 grandes categorias. Esta divisão ajuda os usuários a se concentrarem em tópicos de programação específicos. Todos os problemas estão disponíveis em português e inglês.</p>
 
 ## <a href="https://www.codewars.com/">Codewars ↗</a>
 <p>Voltado a usuários de Ruby, JavaScript e Coffeescript.É um website cheio de charme graças à temática voltada às artes marciais e samurais. Mais indicado para desenvolvedores com boa noção das linguagens, o jogo trabalha as habilidades do usuário através de desafios e kata, que uma vez completados garantem ao jogador pontos de honra para que suba para o próximo nível e libere desafios de programação mais complicados.</p>
